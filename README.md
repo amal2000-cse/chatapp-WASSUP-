@@ -41,7 +41,7 @@ The project structure is organized as follows:
 2. Install dependencies:
 
     ```bash
-    cd chatapp-wassup
+    cd chatapp-WASSUP-
     npm install
     ```
 
