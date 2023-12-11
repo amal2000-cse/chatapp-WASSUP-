@@ -35,7 +35,7 @@ The project structure is organized as follows:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/chatapp-wassup.git
+    git clone https://github.com/amal2000-cse/chatapp-WASSUP-.git
     ```
 
 2. Install dependencies:
