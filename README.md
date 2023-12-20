@@ -2,6 +2,11 @@
 
 Welcome to ChatApp, codenamed "WASSUP" – a real-time chat application designed to connect users seamlessly. This project utilizes HTML, CSS, JavaScript, and Socket.IO for real-time communication. MongoDB and Mongoose are employed to store and manage chat messages, user information, and timestamps. Below, you'll find details on the project structure, technologies used, and instructions for setting up the application.
 
+## Hosted Project
+
+The project is hosted at [https://chatapp-i5rv.onrender.com/](https://chatapp-i5rv.onrender.com/). Feel free to explore and test the application online.
+
+
 ## Table of Contents
 
 - [Technologies](#technologies)
